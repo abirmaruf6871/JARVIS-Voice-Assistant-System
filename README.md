@@ -43,10 +43,6 @@ https://drive.google.com/drive/folders/13jh94CazwuqdFByrb291WlImbVJlmilF?usp=sha
 - Working microphone & stable internet connection
 - Gemini API key & OpenWeather API key
 
-## 💻 Requirements
-
-- Python 3.11 or higher
-
 ## How to run?
 
 1. Create a virtual environment:
