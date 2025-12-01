@@ -2,3 +2,6 @@ SpeechRecognition
 pyttsx3==2.90
 pyaudio
 wikipedia
+gTTS
+google-generativeai
+pywhatkit
