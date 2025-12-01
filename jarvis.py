@@ -11,7 +11,7 @@ import pywhatkit
 import requests
 
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyAGaW6zT1ScNE-7bsDCgDOJYWfoAfKN-ck")
+genai.configure(api_key="your_api_key")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 #whatsapp-contact
